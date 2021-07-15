@@ -1,4 +1,4 @@
-![Slam](https://telegra.ph/file/db03910496f06094f1f7a.jpg)
+![Slam](https://telegra.ph/file/5b0ae1361fd50dad69e4a.jpg)
 # Deegram
 ![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/deegram)
 ![GitHub forks](https://img.shields.io/github/forks/breakdowns/deegram)
@@ -11,7 +11,7 @@
 > Telegram Bot to download music from Deezer powered by [deethon](https://github.com/deethon)
 
 # Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/breakdowns/deegram"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Finitebottutu/deegram"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 # Credits
 - [aykxt](https://github.com/aykxt) for deethon
