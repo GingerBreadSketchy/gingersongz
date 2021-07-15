@@ -1,15 +1,16 @@
 VERSION = "0.2.4"
-CREATOR = "@hafitzXD"
-BOT_NAME = "Deezfitz"
-DONATE = "https://paypal.me/hafitzsetya1"
+CREATOR = "@finite_xd"
+BOT_NAME = "FINITE MUSIC"
+YOUTUBE = "https://www.youtube.com/channel/UCigq8CVltGNAM-hs6cAC8mw"
 WELCOME_MSG = (
     f"🎶🎵 Welcome to {BOT_NAME} 🎵🎶\n\n"
     "Click /help for more information."
+    "join @finite_xd for more bots"
 )
 INFO_MSG = (
     f"👤 Creator: {CREATOR}\n"
     f"ℹ Version: {VERSION}\n"
-    f"🍩 Donate: {DONATE}"
+    f"🍩 Youtube: {YOUTUBE}"
 )
 STATS_MSG = (
     "**Bot Uptime:** {}\n"
