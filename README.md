@@ -13,7 +13,7 @@
 > <p><a href="https://www.youtube.com/channel/UCigq8CVltGNAM-hs6cAC8mw"> <img src="https://lh3.googleusercontent.com/proxy/FJOI0l92toS9-ugV-z0tVJ0cCxFdNz5i-N-JtKxLweXKk6J0TjKhcT9g3PFQS_PTSwvSczTboXLsLdRGszyz_FdAaDGCXm6h4v2fySC2ZXwlWDpBK47iYZdxGM6aFhqvehdF1hS4qA" width="220""/></a></p>
   
 # Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/Finitebottutu/deegram"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 # Credits
 - [aykxt](https://github.com/aykxt) for deethon
