@@ -10,7 +10,7 @@
 
 > Telegram Bot to download music from Deezer powered by [deethon](https://github.com/deethon)
 > Watch our videos on How to deploy various useful telegram bots on heroku
-> <p><a href="https://www.youtube.com/channel/UCigq8CVltGNAM-hs6cAC8mw"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/1024px-YouTube_social_white_squircle_%282017%29.svg.png" width="320""/></a></p>
+> <p><a href="https://www.youtube.com/channel/UCigq8CVltGNAM-hs6cAC8mw"> <img src="https://lh3.googleusercontent.com/proxy/FJOI0l92toS9-ugV-z0tVJ0cCxFdNz5i-N-JtKxLweXKk6J0TjKhcT9g3PFQS_PTSwvSczTboXLsLdRGszyz_FdAaDGCXm6h4v2fySC2ZXwlWDpBK47iYZdxGM6aFhqvehdF1hS4qA" width="320""/></a></p>
   
 # Deploy
 <p><a href="https://heroku.com/deploy?template=https://github.com/Finitebottutu/deegram"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
