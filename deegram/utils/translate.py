@@ -4,8 +4,8 @@ BOT_NAME = "FINITE MUSIC"
 YOUTUBE = "https://www.youtube.com/channel/UCigq8CVltGNAM-hs6cAC8mw"
 WELCOME_MSG = (
     f"🎶🎵 Welcome to {BOT_NAME} 🎵🎶\n\n"
-    "Click /help for more information."
-    "join @finite_xd for more bots"
+    "Click /help for more information\n\n"
+    "join @finiteyt for more bots"
 )
 INFO_MSG = (
     f"👤 Creator: {CREATOR}\n"
@@ -24,7 +24,7 @@ STATS_MSG = (
     "**DISK:** {}"
 )
 HELP_MSG = (
-    "Search by Album or Track or just send me a Deezer Track or Album link and I will download it for you 🙂\n\n"
+    "Search by Album or Track or just send me a Deezer Track or Album link and I will download it for you bot by @finite_xd\n\n"
     "**List of all commands:**\n"
     "/start - Get the welcome message\n"
     "/help - Get this message\n"
