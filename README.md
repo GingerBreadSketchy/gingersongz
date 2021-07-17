@@ -8,7 +8,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/breakdowns/deegram)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/breakdowns/deegram)
 
-> Telegram Bot to download music from Deezer powered by [deethon](https://github.com/deethon)
+> Telegram Bot to download FLAC HIFI high quality music from Deezer powered by [deethon](https://github.com/deethon)
 > Watch our videos on How to deploy various useful telegram bots on heroku
 > <p><a href="https://www.youtube.com/channel/UCigq8CVltGNAM-hs6cAC8mw"> <img src="https://telegra.ph/file/c54751325802bfa2313b9.jpg" width="220""/></a></p>
   
